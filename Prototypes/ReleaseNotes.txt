@@ -1,0 +1,10 @@
+Egress - Prototype Release Notes
+
+Known Issues: 
+	- Player model clings to side of objects when jumping
+	- Player can jump through ceiling of Art Prototype
+	- There is no player model (yet)
+	- You can fall out of the world in the Art Prototype by going past the stairs
+	- You can fall out of the world in the Gameplay Prototype
+	- Art Prototype camera somewhat uncentered and close to the player, we'll be going with the camera in the Gameplay Prototype
+	- Start menu in each Prototype only goes to respective prototype: i.e. 'Gameplay Prototype' start menu will have both Art and Gameplay Prototypes as options, only the Gameplay Prototype will work- vice versa for the Art Prototype. 
